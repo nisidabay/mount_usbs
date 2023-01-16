@@ -1,0 +1,14 @@
+{
+  "Folders": [
+    {
+      "folder_id": "1",
+      "folder_to_track": "/home/nisidabay/",
+      "folder_to_copy_to": "/run/media/nisidabay/MINIS_SDA"
+    },
+    {
+      "folder_id": "2",
+      "folder_to_track": "/home/nisidabay/Documents/Mis_Apuntes_de_Programacion",
+      "folder_to_copy_to": "/media/KINGSTON"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+docopt==0.6.2
+notify-py==0.3.3
+rich==12.6.0
+watchdog==2.1.6
